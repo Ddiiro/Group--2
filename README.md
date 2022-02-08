@@ -3,7 +3,7 @@
 
 
 ## Screenshot
-![screenshot](Images/Screenshot_TUSIMBUDEWEBSITE .png)
+![screenshot](Images/TUSIMBUDEWEBSITE_screenshot.png)
 
 >This project was made to demonstrate the group's understanding of basic HTML5,CSS3 and Bootstrap concepts; 
 The ability to work with Bootstrap and portrayal of our understanding of responsive designs of a webpage.
